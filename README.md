@@ -237,4 +237,4 @@ Heroes of the Storm is available as a full free version with all features and up
 Join the epic battles today and download Heroes of the Storm free! Experience the thrill of MOBA action with your favorite Blizzard heroes. Don’t miss out!
 
 ---
-**Last updated:** 2026-10-06 14:58:40 UTC
+**Last updated:** 2026-10-06 20:10:37 UTC
